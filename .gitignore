@@ -46,6 +46,7 @@ build/Release
 node_modules/
 jspm_packages/
 
+
 # TypeScript v1 declaration files
 typings/
 
@@ -109,3 +110,4 @@ tmp/
 temp/
 
 # End of https://www.gitignore.io/api/node
+uploads/
